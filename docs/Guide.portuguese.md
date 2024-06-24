@@ -502,7 +502,7 @@ const CustomHeaderWebView = (props) => {
 
 #### Gerenciando cookies
 
-Você pode definir cookies no lado React Native usando o pacote [@react-native-community/cookies](https://github.com/react-native-community/cookies).
+Você pode definir cookies no lado React Native usando o pacote [@react-native-cookies/cookies](https://github.com/react-native-cookies/cookies).
 
 Ao fazer isso, você provavelmente desejará habilitar a propriedade [sharedCookiesEnabled](Reference.portuguese.md#sharedCookiesEnabled) também.
 
@@ -550,3 +550,4 @@ O vídeo no `iOS` sempre ignorará a chave de silêncio do hardware.
 Esse arquivo está disponível em:
 
 - [Inglês](Guide.md)
+- [Italiano](Guide.italian.md)
